@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="../bootstrap.css">
+  <title></title>
+</head>
+
+<body>
+  <div class="container p-3 vh-100 ">
+    <div id="alert" class="alert alert-success" style="display: none;position:absolute;width: 800px;margin-left: auto;margin-right: auto;left: 0;right: 0;">
+      <strong>Uloženo!</strong> Uživatel byl uložen
+    </div>
+    <div class="row align-items-center pt-5">
+      <div class="col-6 offset-3 mt-5">
+        <div class="card">
+          <div class="card-header">
+            <h3>Přidat uživatele</h3>
+          </div>
+          <div class="card-body">
+            <form class="" action="/" method="post">
+              <div class="form-group">
+                <label for="firstname">Jméno</label>
+                <input type="text" class="form-control" name="firstname">
+              </div>
+              <div class="form-group">
+                <label for="lastname">Příjmení</label>
+                <input type="text" class="form-control" name="lastname">
+              </div>
+              <div class="form-group">
+                <label for="email">Email</label>
+                <input type="email" class="form-control" name="email">
+              </div>
+              <button type="submit" class="btn btn-primary btn-block">Uložit</button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <script src="jquery.js" charset="utf-8"></script>
+  <script src="ajaxsubmit.min.js" charset="utf-8"></script>
+  <script src="main.js" charset="utf-8"></script>
+</body>
+
+</html>
