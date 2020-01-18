@@ -25,7 +25,8 @@ app.post('/', (req, res) =>{
       {
         firstname : req.body.firstname,
         lastname : req.body.lastname,
-        email : req.body.email
+        email : req.body.email,
+        date : Date.now()
       }
     )
   })
