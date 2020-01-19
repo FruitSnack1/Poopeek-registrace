@@ -5,3 +5,7 @@
 body{
   font-family: 'Quicksand', sans-serif;
 }
+
+.btn-primary:focus{
+  box-shadow: none;
+}
