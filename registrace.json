@@ -1,0 +1,175 @@
+[{
+  "firstname": "Pepa",
+  "lastname": "Spoko",
+  "email": "a@a.cy",
+  "type": "organizator",
+  "date": 1579424343906
+}, {
+  "firstname": "Rostislav",
+  "lastname": "Steiner",
+  "email": "R.Steiner@dwd.cz",
+  "type": "organizator",
+  "date": 1579424444656
+}, {
+  "firstname": "Ladislav",
+  "lastname": "Slanina",
+  "email": "lad.slanina@seznam.cz",
+  "type": "interpret",
+  "date": 1579453673508
+}, {
+  "firstname": "Anezka",
+  "lastname": "Stockova",
+  "email": "anezkastockova@seznam.cz",
+  "type": "organizator",
+  "date": 1579455392783
+}, {
+  "firstname": "Ondrej",
+  "lastname": "Kejval",
+  "email": "ondrakejval@seznam.cz",
+  "type": "interpret",
+  "date": 1579455429157
+}, {
+  "firstname": "Martin",
+  "lastname": "Fiala",
+  "email": "martin.fiala8@gmail.com",
+  "type": "interpret",
+  "date": 1579459706561
+}, {
+  "firstname": "Patrik",
+  "lastname": "Ferko",
+  "email": "ferko.pato@gmail.com",
+  "type": "interpret",
+  "date": 1579459737454
+}, {
+  "firstname": "Michal",
+  "lastname": "Král",
+  "email": "betwind@email.com",
+  "type": "interpret",
+  "date": 1579459825092
+}, {
+  "firstname": "Michal",
+  "lastname": "Král",
+  "email": "betwind@email.cz",
+  "type": "interpret",
+  "date": 1579459857942
+}, {
+  "firstname": "Rostislav",
+  "lastname": "Kuka",
+  "email": "rostislav.kuka@seznam.cz",
+  "type": "interpret",
+  "date": 1580146766417
+}, {
+  "firstname": "Rostislav",
+  "lastname": "Máca",
+  "email": "rmproduction@seznam.cz",
+  "type": "else",
+  "date": 1580146832683
+}, {
+  "firstname": "Denisa",
+  "lastname": "Suchanová",
+  "email": "suchanova.denisa437@gmail.com",
+  "type": "interpret",
+  "date": 1580146881933
+}, {
+  "firstname": "Barbora",
+  "lastname": "Prokesova",
+  "email": "",
+  "type": "media",
+  "date": 1580146922139
+}, {
+  "firstname": "Pavel",
+  "lastname": "Karlík",
+  "email": "info@sonorecords.cz",
+  "type": "else",
+  "date": 1580146975146
+}, {
+  "firstname": "Jan",
+  "lastname": "Deveter",
+  "email": "jan.devetter@seznam.cz",
+  "type": "interpret",
+  "date": 1580147041035
+}, {
+  "firstname": "Jana",
+  "lastname": "Benešová ",
+  "email": "utrzene.sluchatko@seznam.cz",
+  "type": "interpret",
+  "date": 1580147083882
+}, {
+  "firstname": "Štěpán",
+  "lastname": "Kříž",
+  "email": "shtepankriz@gmail.com",
+  "type": "else",
+  "date": 1580147171512
+}, {
+  "firstname": "Tereza",
+  "lastname": "Čechová",
+  "email": "cechova.terez@gmail.com",
+  "type": "interpret",
+  "date": 1580147219440
+}, {
+  "firstname": "Jaroslav",
+  "lastname": "Maceček",
+  "email": "jaroslav.macecek@student.pce.cz",
+  "type": "interpret",
+  "date": 1580147274932
+}, {
+  "firstname": "Jan",
+  "lastname": "Bláha ",
+  "email": "blahajan1@gmail.com",
+  "type": "interpret",
+  "date": 1580147332237
+}, {
+  "firstname": "Martin ",
+  "lastname": "Ducháč",
+  "email": "vivian.music@email.cz",
+  "type": "interpret",
+  "date": 1580147560415
+}, {
+  "firstname": "Eliška ",
+  "lastname": "Bouciková",
+  "email": "eliskabuocikova-music@email.cz",
+  "type": "interpret",
+  "date": 1580147608959
+}, {
+  "firstname": "Jakub",
+  "lastname": "Šimral",
+  "email": "jakubsimral@centrum.cz",
+  "type": "interpret",
+  "date": 1580147816995
+}, {
+  "firstname": "Alenka",
+  "lastname": "Frízlová",
+  "email": "alenka.frizlova@gmail.com",
+  "type": "interpret",
+  "date": 1580147907522
+}, {
+  "firstname": "Ondřej",
+  "lastname": "Lukeš",
+  "email": "on.lukes@gmail.com",
+  "type": "interpret",
+  "date": 1580147946188
+}, {
+  "firstname": "Petr",
+  "lastname": "Müller",
+  "email": "muller.petr@hotmail.com",
+  "type": "interpret",
+  "date": 1580148135721
+}, {
+  "firstname": "Lenka",
+  "lastname": "Šumanová",
+  "email": "sumanova@post.cz",
+  "type": "interpret",
+  "date": 1580148183776
+}, {
+  "firstname": "Maroš",
+  "lastname": "Franc",
+  "email": "maros.franc@gmail.com",
+  "type": "interpret",
+  "date": 1580150855697
+}, {
+  "firstname": "Tomas",
+  "lastname": "Novotny",
+  "email": "info@metanol.cz",
+  "type": "interpret",
+  "date": 1580233815855
+}]
